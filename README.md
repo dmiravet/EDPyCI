@@ -1,1 +1,1 @@
-#EDPyCI is an exact diagonalization and configuration interaction python package
+# EDPyCI is an exact diagonalization and configuration interaction python package
